@@ -1,5 +1,5 @@
 # Portfolio
-**By Haru Y.**
+## **By Haru Y.**
 
 Email: shiichouux@gmail.com
 
